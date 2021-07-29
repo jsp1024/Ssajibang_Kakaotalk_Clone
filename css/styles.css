@@ -11,13 +11,13 @@ body {
 	width: 33%;
 }
 
-.status-bar__column:nth-cild(2){
+.status-bar__column:nth-child(2){
 	display: flex;
-	justify-content:center;
+	justify-content: center;
 }
 
 .status-bar__column:last-child{
-	display:flex;
+	display: flex;
 	justify-content: flex-end;
 	align-items: center;
 }
