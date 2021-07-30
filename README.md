@@ -1,1 +1,1 @@
-# Ssajibang_Kakaotalk_Clone
+# 사지방에서 카카오톡 클론만들기
