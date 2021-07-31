@@ -4,7 +4,7 @@
 
 ## 1. 로그인 페이지
 
-<img src="img/readme/index.png" width="1000" />
+<img src="https://user-images.githubusercontent.com/46260954/127743482-cc3e9a5d-8b7d-49c3-bb79-57477617eee4.PNG"/>
 
 -   pc카카오톡과 비슷하게 만들기 위해 먼저 맨 상단에 있는 상태창을 만들게 되었다.
 
