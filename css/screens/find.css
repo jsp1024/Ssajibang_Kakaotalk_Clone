@@ -1,3 +1,7 @@
+.screen-header {
+    position: relative;
+}
+
 .screen-header__icons-cog {
     position: absolute;
 }
