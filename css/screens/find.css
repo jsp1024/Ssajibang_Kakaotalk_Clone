@@ -125,3 +125,8 @@
 .open-post__heart-count span {
     margin-left: 3px;
 }
+
+.border-line {
+    border: var(--main-border);
+    margin: 20px 0px;
+}
