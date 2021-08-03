@@ -1,0 +1,36 @@
+.settings__setting {
+    padding: 20px 0px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.settings__setting i {
+    margin-right: 20px;
+    font-size: 22px;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.settings__setting-column:first-child {
+    position: relative;
+}
+
+.settings__setting-column:last-child {
+    opacity: 0.5;
+}
+
+.badge-notice {
+    position: absolute;
+    background-color: tomato;
+    width: 7px;
+    height: 7px;
+    border-radius: 3.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+    right: 95px;
+}
